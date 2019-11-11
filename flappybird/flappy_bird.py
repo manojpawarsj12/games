@@ -2,7 +2,7 @@
 import pygame
 import random
 import os
-import time
+
 pygame.font.init()  # init font
 pygame.mixer.init()
 WIN_WIDTH = 600
